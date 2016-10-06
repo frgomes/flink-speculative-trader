@@ -1,5 +1,7 @@
 ## Get rich finding transcendental patterns hidden in stock prices
 
+[![Join the chat at https://gitter.im/frgomes/flink-speculative-trader](https://badges.gitter.im/frgomes/flink-speculative-trader.svg)](https://gitter.im/frgomes/flink-speculative-trader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *This is work in progress*
 
 This project aims to collect stock prices and (hopefully!) obtain some useful information from it which could somehow guide speculative trading.
